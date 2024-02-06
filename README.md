@@ -42,4 +42,4 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-For any inquiries or feedback, please contact [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or feedback, please contact kaushalsoni3344@gmail.com
