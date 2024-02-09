@@ -17,7 +17,7 @@ This project allows users to play drum sounds by clicking on the buttons or pres
 
 - HTML
 - CSS
-- JavaScript
+- vanilla JavaScript
 
 ## Usage
 
