@@ -42,4 +42,5 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-For any inquiries or feedback, please contact kaushalsoni3344@gmail.com  or https://www.instagram.com/kaushal_soni_/?igsh=MTlma3hoazIzOWk1bQ%3D%3D
+For any inquiries or feedback, please contact kaushalsoni3344@gmail.com  or 
+instagram https://www.instagram.com/kaushal_soni_/?igsh=MTlma3hoazIzOWk1bQ%3D%3D
