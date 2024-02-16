@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 - This project was inspired by Wes Bos's [JavaScript30](https://javascript30.com/) course.
 - Drum sounds obtained from [FreeSound](https://freesound.org/).
 
-## Contact
+## Contact..
 
 For any inquiries or feedback, please contact kaushalsoni3344@gmail.com  or 
 instagram https://www.instagram.com/kaushal_soni_/?igsh=MTlma3hoazIzOWk1bQ%3D%3D
