@@ -1,4 +1,4 @@
-live website is in progress
+live website is in progress...
 # Drum Kit
 
 This is a simple drum kit project created using vanilla JavaScript.
