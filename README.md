@@ -39,7 +39,7 @@ Please make sure to update tests as appropriate.
 ## Acknowledgements...
 
 - This project was inspired by Wes Bos's [JavaScript30](https://javascript30.com/) course.
-- Drum sounds obtained from [FreeSound](https://freesound.org/).
+- Drum sounds obtained from [FreeSound](https://freesound.org/)
 
 ## Contact..
 
