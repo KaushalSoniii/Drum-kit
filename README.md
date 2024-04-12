@@ -36,7 +36,7 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Acknowledgements...
+## Acknowledgements
 
 - This project was inspired by Wes Bos's [JavaScript30](https://javascript30.com/) course.
 - Drum sounds obtained from [FreeSound](https://freesound.org/)
