@@ -22,7 +22,7 @@ This project allows users to play drum sounds by clicking on the buttons or pres
 
 ## Usage
 
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your local machine..
 2. Open `index.html` in your web browser.
 3. Click on the buttons to play drum sounds or press corresponding keys on the keyboard.
 
